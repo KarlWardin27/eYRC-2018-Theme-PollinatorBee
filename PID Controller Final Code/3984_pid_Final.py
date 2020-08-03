@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Team ID: 3984
-Author List: Nishan Poojary 
+Author List: Nishan Poojary, Prathamesh Pokhare 
 FileName: Positon Hold 
 Theme: Pollinator Bot
 Functions: __init__(self), arm(self), disarm(self), position_hold(self), calc_pid(self), pid_roll(self), pid_pitch(self), pid_throt(self) ,limit(self, 		   input_value, max_value, min_value), set_pid_alt(self,pid_val), set_pid_roll(self,pid_val), set_pid_pitch(self,pid_val), set_pid_yaw(self,pid_val), 		   get_pose(self,pose) 

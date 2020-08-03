@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Team ID: 3984
-Author List: Nishan Poojary
+Author List: Nishan Poojary, Prathamesh Pokhare
 FileName: Image Processing 
 Theme: Pollinator Bot
 Functions: __init__(self), image_callback(self,msg):
